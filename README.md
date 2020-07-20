@@ -12,4 +12,4 @@ This code would not be possible if it wasn't for:
      Adafruit's CharLCD Library https://github.com/adafruit/Adafruit_Python_CharLCD
      Chris Hager's RPIO (v2 beta) Library https://github.com/metachris/RPIO
   
-Hopefully you picked on on the fact you need to download and install these libraries for this to work.
+Hopefully you picked up on the fact you need to download and install these libraries for this to work.
